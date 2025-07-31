@@ -1,7 +1,7 @@
 Author
 Name: Amir Hamza
 GitHub: amirhamza111
-Email: amirhamza111@gmail.com
+Email: hamzathekhan123@gmail.com
 License
 This repository is intended for educational purposes. Please refer to the LICENSE file for details.
 
